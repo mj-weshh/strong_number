@@ -50,9 +50,11 @@ def main():
      status =  strong(number)
      #outputs the status of the number
      #whether strong or not strong
-     print(f"{number} is {status}7")
+     print(f"{number} is {status}")
 
 
 if __name__ == "__main__":
      #calls main()
      main()
+
+     
